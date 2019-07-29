@@ -1,0 +1,9 @@
+__pycache__/*
+*.zip
+.ipynb_checkpoints/
+gephi/
+json-files/
+friends_data/
+followers_data/
+user_info_data/
+user_status_data/
